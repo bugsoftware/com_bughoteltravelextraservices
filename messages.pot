@@ -1,5 +1,3 @@
-msgid "index.php?option=com_bughoteltravelextraservices&Itemid="
-msgstr ""
 msgid "Reservations"
 msgstr ""
 msgid "Default"
