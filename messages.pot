@@ -900,6 +900,8 @@ msgid "We are sorry but there is no availability for the dates you have selected
 msgstr ""
 msgid "No Availaiblity"
 msgstr ""
+msgid "Type"
+msgstr ""
 msgid "Privacy Policy"
 msgstr ""
 msgid "Close Window"
